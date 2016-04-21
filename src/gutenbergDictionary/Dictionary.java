@@ -2,8 +2,8 @@
  * Copyright 2016 Jordan Carr
  * File Name: Dictionary.java
  * Class Name: GutenburgDictionary
- * Description: To take an e-book from gutenburg.ca and, after removing the preamble and credits so that just the
- * text itself remains, create a dictionary of words from the book that are at least three letters long and begins
+ * Description: To take an plain text e-book (like from gutenburg.ca) and, after removing the preamble and credits so that
+ * just the text itself remains, create a dictionary of words from the book that are at least three letters long and begins
  * with a lowercase letter.
  */
 
