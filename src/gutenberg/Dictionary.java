@@ -58,7 +58,7 @@ class Dictionary {
      * lowercase letter
      *
      * @param fileInput The file to be used as a source of words for the dictionary which is specified by the user
-     * @throws java.io.IOException If an IOException is encountered such as the file being unreadable or nonexistant
+     * @throws java.io.IOException If an IOException is encountered such as the file being unreadable or nonexistent
      * then the method throws the exception which is handled in the main method
      */
     private static void wordValidity(String fileInput) throws java.io.IOException {
@@ -99,7 +99,7 @@ class Dictionary {
      * @param countInput The count of how many words were in the inputFile
      * @param inputFile  The file to be used as a source of words for the dictionary which is specified by the user
      * @param outputFile The file to be used as an output location for the dictionary which is specified by the user
-     * @throws java.io.IOException If an IOException is encountered such as the file being unreadable or nonexistant
+     * @throws java.io.IOException If an IOException is encountered such as the file being unreadable or nonexistent
      * then the method throws the exception which is handled in the main method
      */
     private static void writeFile(int countInput, String inputFile, String outputFile)
