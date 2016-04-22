@@ -3,7 +3,6 @@
  * File: Dictionary.java
  * Class: gutenberg.Dictionary
  */
-
 package gutenberg;
 
 import java.io.BufferedReader;
