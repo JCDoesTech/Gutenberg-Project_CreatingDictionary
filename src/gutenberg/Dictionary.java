@@ -1,7 +1,8 @@
 /*
  * Copyright 2016 Jordan Carr
- * File: Dictionary.java
- * Class: gutenberg.Dictionary
+ * Project Name: Gutenberg-Project_CreatingDictionary
+ * Class Name: gutenberg.Dictionary
+ * Last Modification Date: 01/05/16 4:49 PM
  */
 package gutenberg;
 

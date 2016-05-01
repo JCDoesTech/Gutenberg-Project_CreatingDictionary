@@ -1,6 +1,6 @@
 <component name="CopyrightManager">
   <copyright>
     <option name="myName" value="Apache_2.0" />
-    <option name="notice" value="Copyright &amp;#36;today.year Jordan Carr&#10;File: &amp;#36;file.fileName&#10;Class: &amp;#36;file.qualifiedClassName" />
+    <option name="notice" value="Copyright &amp;#36;today.year Jordan Carr&#10;Project Name: &amp;#36;project.name&#10;Class Name: &amp;#36;file.qualifiedClassName&#10;Last Modification Date: &amp;#36;file.lastModified" />
   </copyright>
 </component>
